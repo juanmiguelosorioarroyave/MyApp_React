@@ -1,0 +1,16 @@
+div.Content-text {
+    border: 0px solid transparent;
+    padding: 8px;
+}
+
+h1.Pricipal-text {
+    text-align: center;
+    text-transform: uppercase;
+    color: #151615;
+}
+
+p.Text {
+    text-indent: 0px;
+    text-align: center;
+    letter-spacing: 4px;
+}
